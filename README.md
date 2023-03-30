@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamilton8560
 - 👀 I’m interested in machine learning
 - 🌱 I love to code, and want to develop my skills to their max potential
-- 💞️ I’m looking to get a job
+
 
 
 <!---
